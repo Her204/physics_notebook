@@ -1,0 +1,1 @@
+crea una notebook de electrodinamica clasica que incluya las ecuaciones de maxwel, debe ser rigurosa, didactica y explicativa en (/home/herbert204/ia_stuff/physics_notebook/notebooks)

@@ -1,1 +1,0 @@
-crea una notebook de termodinamica estidistica rigurosa, enfocada en explicar detalladamente todo lo relacionado a la mecanica clasica, previo a entrar a temas de mecanica cuantica en (/home/herbert204/ia_stuff/physics_notebook/notebooks)

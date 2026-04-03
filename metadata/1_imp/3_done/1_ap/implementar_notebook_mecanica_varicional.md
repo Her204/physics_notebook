@@ -1,0 +1,1 @@
+implementemos un notebook donde con scipy, seaborn matplotlib 3d, etc puedas crear un curso riguroso de paso a paso como entender la mecanica varicional, ese notebook debe tener ejercicios, graficas, formulas en markdown lenguage, etc has todo ello en (/home/herbert204/ia_stuff/physics_notebook/notebooks)
